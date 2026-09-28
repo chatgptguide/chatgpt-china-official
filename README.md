@@ -10,6 +10,8 @@
 
 - **ChatGPT 中文版入口**：[https://lazymanchat.com](https://lazymanchat.com)
 - **ChatGPT 镜像站直达**：[https://ai.luckaichat.com](https://ai.luckaichat.com)
+- **ChatGPT 官网入口国内使用教程**：[ChatGPT 官网入口国内使用教程](https://www.chatgpt-chinese-official.com)
+- **ChatGPT 网页版使用教程**：[ChatGPT 网页版使用教程](https://www.codex-chinese.com/chatgpt/guides/chatgpt-official-entry-domestic-guide-2026)
 
 下面是截至 2026 年 9 月由 OpenAI 官方运营的 **ChatGPT 官网地址**（任选其一即可，指向同一服务）：
 
